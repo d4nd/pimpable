@@ -1,10 +1,4 @@
 {
-  "repositories": [
-    {
-      "type": "github",
-      "url": "https://github.com/gpomer/sortable"
-    }
-  ],
   "name": "jedrzej/pimpable",
   "description": "Laravel 4/5 package that allows to dynamically filter, sort and eager load relations for your models using request parameters",
   "keywords": [
@@ -43,5 +37,11 @@
       "Jedrzej\\": "src/Jedrzej/",
       "Illuminate\\": "vendor/laravel/framework/src/Illuminate/"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/gpomer/sortable"
+    }
+  ]
 }

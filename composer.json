@@ -1,6 +1,5 @@
 {
-  {
-    "repositories": [
+  "repositories": [
     {
       "type": "vcs",
       "url": "https://github.com/gpomer/sortable"
